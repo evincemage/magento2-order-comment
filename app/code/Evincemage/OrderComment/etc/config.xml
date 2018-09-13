@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @copyright Copyright (c) 2018 www.evincemage.com
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../Magento/Store/etc/config.xsd">
+    <default>
+        <checkout>
+            <options>
+                <checkout_comments_enabled>0</checkout_comments_enabled>
+            </options>
+        </checkout>
+    </default>
+</config>
